@@ -4,10 +4,8 @@
   
 ### Overview
 
-<video src="fundamental_problem.mp4" width="700" controls></video>
-
-> The video outlines the traffic congestion issues addressed by our proposed system.
-
+> Watch this short video, `fundamental_problem.mp4`, which outlines the problem landscape our smart traffic system is designed to address.
+ 
 Urban environments today are grappling with ever-increasing vehicular traffic, leading to frequent congestion, extended waiting times at intersections, and inefficient fuel consumption. Conventional traffic light systems operate on fixed cycles, lacking the adaptability to respond to real-time road conditions or emergency situations. This not only disrupts traffic flow but also hinders timely passage of critical services like ambulances and fire brigades. Addressing this pressing urban mobility challenge demands an intelligent and adaptive approach to traffic control.
 
 Our solution proposes a smart, IoT-enabled traffic control system that leverages real-time computer vision through **YOLOv8** for vehicle detection and dynamically adjusts traffic light signals based on road congestion levels and emergency vehicle detection. The system includes a prediction layer that analyzes traffic patterns using machine learning, providing actionable insights to improve flow and reduce congestion.
